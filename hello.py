@@ -1,1 +1,1 @@
-print("나는 실행했다")
+print("Hello, Python from Zero")
