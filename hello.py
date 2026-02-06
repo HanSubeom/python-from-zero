@@ -1,1 +1,1 @@
-print("Hello, Python from Zero")
+print("Hello, Git day 5")
