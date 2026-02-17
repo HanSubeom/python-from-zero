@@ -16,4 +16,5 @@
 - Day 11: 짝수 카운트 프로그램 작성, % 연산자 이해  
 - Day 12: 양수 합 프로그램 작성, 누적 위치(들여쓰기) 중요성 이해
 - Day 13: even/odd sum logic + git rebase conflict resolved
+
 아직 초보지만, 실행한 것만 기록합니다.
