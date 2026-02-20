@@ -2,23 +2,24 @@
 
 파이썬을 완전 처음부터 배우면서 실행한 기록입니다.
 
-## 진행 로그
-- Day 1: 터미널 사용, 첫 파이썬 파일 실행
-- Day 2: 파일에 결과 누적, 반복 실행
-- Day 3: 코드 구조 이해 및 노션 기록
-- Day 4: GitHub에 첫 공개 저장소 생성, 파일 열기/쓰기, "w"와 "a" 차이 이해, \n 줄바꿈 학습  
-- Day 5: for 반복문과 파일쓰기 연결  
-- Day 6: 코드 안 보고 작성 시도, 일부러 오류 내고 수정, Git 첫 정상 커밋  
-- Day 7: 파일쓰기 코드 암기 도전, 레포지토리 위치 개념 이해  
-- Day 8: input() 사용, int 변환 필요성 이해, = vs == 차이 학습  
-- Day 9: if 조건문 논리 이해, 비교 연산 실험  
-- Day 10: count 변수 개념, 반복 + 조건 + 누적 구조 이해  
-- Day 11: 짝수 카운트 프로그램 작성, % 연산자 이해  
-- Day 12: 양수 합 프로그램 작성, 누적 위치(들여쓰기) 중요성 이해
-- Day13: 반복문과 조건문으로 짝수/홀수 합 계산 구현
-- Day14: 반복문과 조건문으로 양수, 음수, 0 분류 구현
-- Day15: 반복문 확장, 0 종료 조건 추가, 총합/평균 계산, V1/V2 버전 관리
-- Day16: Day15 과제 전부 백지에서 재구현 및 평균 로직 복습 완료
+## Progress Log
+	•	Day 1: Terminal usage, ran the first Python file
+	•	Day 2: Accumulating results in a file, repeated execution
+	•	Day 3: Understanding code structure and keeping notes
+	•	Day 4: Created first public GitHub repository, file read/write, difference between "w" and "a", learned \n line breaks
+	•	Day 5: Connecting for loops with file writing
+	•	Day 6: Writing code without reference, intentionally creating and fixing errors, first clean Git commit
+	•	Day 7: Memorizing file-writing code, understanding repository structure
+	•	Day 8: Using input(), understanding the need for int(), learning the difference between = and ==
+	•	Day 9: Understanding if logic and practicing comparison operators
+	•	Day 10: Understanding count variables, loop + condition + accumulation structure
+	•	Day 11: Writing an even number counter, understanding the % operator
+	•	Day 12: Writing a positive number sum program, understanding the importance of indentation
+	•	Day 13: Implementing even/odd sum calculation using loops and conditionals
+	•	Day 14: Classifying positive, negative, and zero values using loops and conditionals
+	•	Day 15: Extending loops, adding zero-termination condition, total/average calculation, managing V1/V2 versions
+	•	Day 16: Reimplemented all Day15 tasks from scratch and reviewed average calculation logic
 
 
-아직 초보지만, 실행한 것만 기록합니다.
+Still a beginner, but I only record what I have actually built and executed.
+
