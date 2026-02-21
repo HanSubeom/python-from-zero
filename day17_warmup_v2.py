@@ -2,7 +2,7 @@ total = 0
 count = 0
 
 while True:
-	number = int(input("숫자를 입력하세요. (0입력 시 종료)"))
+	number = int(input("숫자를 입력하세요. (0입력 시 종료): "))
 
 	if number == 0:
 		break
