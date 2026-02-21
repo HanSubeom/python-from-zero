@@ -19,7 +19,7 @@
 	-	Day 14: Classifying positive, negative, and zero values using loops and conditionals
 	-	Day 15: Extending loop logic, adding zero-termination condition, total/average calculation, V1/V2 version management
 	-	Day 16: Re-implementing all Day15 tasks from scratch and reviewing average calculation logic
-	-   Day17: mastered break/continue control flow and implemented odd-number filter program
+	-   Day 17: mastered break/continue control flow and implemented odd-number filter program
 
 Still a beginner, but I only record what I have actually built and executed.
 
