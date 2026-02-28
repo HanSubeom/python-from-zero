@@ -22,6 +22,7 @@
 	-   Day 17: mastered break/continue control flow and implemented odd-number filter program
 	-	Day 18: git rename practice and rebuild master file
 	-   Day 19: reinforced flow control logic and validated break/continue behavior
+	-	Day 20: reinforced control flow (break/continue), rebuilt positive-only sum/average logic, and implemented basic list collection.
 
 Still a beginner, but I only record what I have actually built and executed.
 
